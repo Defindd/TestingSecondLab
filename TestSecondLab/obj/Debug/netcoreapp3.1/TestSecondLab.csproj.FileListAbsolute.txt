@@ -1,0 +1,13 @@
+C:\Users\Defind\source\repos\TestSecondLab\TestSecondLab\bin\Debug\netcoreapp3.1\TestSecondLab.exe
+C:\Users\Defind\source\repos\TestSecondLab\TestSecondLab\bin\Debug\netcoreapp3.1\TestSecondLab.deps.json
+C:\Users\Defind\source\repos\TestSecondLab\TestSecondLab\bin\Debug\netcoreapp3.1\TestSecondLab.runtimeconfig.json
+C:\Users\Defind\source\repos\TestSecondLab\TestSecondLab\bin\Debug\netcoreapp3.1\TestSecondLab.runtimeconfig.dev.json
+C:\Users\Defind\source\repos\TestSecondLab\TestSecondLab\bin\Debug\netcoreapp3.1\TestSecondLab.dll
+C:\Users\Defind\source\repos\TestSecondLab\TestSecondLab\bin\Debug\netcoreapp3.1\TestSecondLab.pdb
+C:\Users\Defind\source\repos\TestSecondLab\TestSecondLab\obj\Debug\netcoreapp3.1\TestSecondLab.csprojAssemblyReference.cache
+C:\Users\Defind\source\repos\TestSecondLab\TestSecondLab\obj\Debug\netcoreapp3.1\TestSecondLab.AssemblyInfoInputs.cache
+C:\Users\Defind\source\repos\TestSecondLab\TestSecondLab\obj\Debug\netcoreapp3.1\TestSecondLab.AssemblyInfo.cs
+C:\Users\Defind\source\repos\TestSecondLab\TestSecondLab\obj\Debug\netcoreapp3.1\TestSecondLab.csproj.CoreCompileInputs.cache
+C:\Users\Defind\source\repos\TestSecondLab\TestSecondLab\obj\Debug\netcoreapp3.1\TestSecondLab.dll
+C:\Users\Defind\source\repos\TestSecondLab\TestSecondLab\obj\Debug\netcoreapp3.1\TestSecondLab.pdb
+C:\Users\Defind\source\repos\TestSecondLab\TestSecondLab\obj\Debug\netcoreapp3.1\TestSecondLab.genruntimeconfig.cache

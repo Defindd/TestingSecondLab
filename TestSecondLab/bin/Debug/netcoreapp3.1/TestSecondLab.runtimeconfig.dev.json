@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Defind\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Defind\\.nuget\\packages"
+    ]
+  }
+}
